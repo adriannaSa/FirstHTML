@@ -1,4 +1,4 @@
-Stwórz repozytorium o nazwie"FirstHTML
+Stwórz repozytorium o nazwie"FirstHTML"
 
 Dodaj do repozytorium dwa foldery na nazwach "html" i "js"
 
